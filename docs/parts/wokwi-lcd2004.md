@@ -15,8 +15,8 @@ For **complete information and code examples**, please see the [wokwi-lcd1602 re
 
 | Result                                                                | Attrs                                        |
 | --------------------------------------------------------------------- | -------------------------------------------- |
-| <wokwi-lcd2004 text="Hello World!" />                                 | `{ }`                                        |
-| <wokwi-lcd2004 text="Hello World!" pins="i2c" />                      | `{ "pins": "i2c" }`                          |
+| <wokwi-lcd2004 text="arvind patil!" />                                 | `{ }`                                        |
+| <wokwi-lcd2004 text=" baba ramdev!" pins="i2c" />                      | `{ "pins": "i2c" }`                          |
 | <wokwi-lcd2004 background="blue" color="white" text="Hello World!" /> | `{ "background": "blue", "color": "white" }` |
 
 ## Simulator examples
